@@ -1,5 +1,0 @@
-invalid email
-valid email
-valid email
-invalid email
-valid email
